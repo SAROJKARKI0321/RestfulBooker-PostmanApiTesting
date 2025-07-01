@@ -1,0 +1,27 @@
+{
+	"id": "42bc7ba7-37a7-4c8d-bfc8-fac81859fcf6",
+	"name": "ReqRes Env",
+	"values": [
+		{
+			"key": "user_id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "baseuri",
+			"value": "https://reqres.in/api",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "created_user_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-06-30T04:15:07.746Z",
+	"_postman_exported_using": "Postman/11.51.6"
+}
